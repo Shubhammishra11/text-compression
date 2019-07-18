@@ -1,0 +1,12 @@
+	Encode(s)   Decode(s)	
+Large -0.034337   0.010246
+
+Medium -0.019118  0.005016
+
+Small- 0.003655   0.000922
+
+
+Naive
+Large- 0.062429
+Medium-0.049676
+Small-0.019489
